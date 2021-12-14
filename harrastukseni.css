@@ -1,0 +1,18 @@
+body {
+  background-color: lightblue;
+  font-style: italic;
+}
+
+
+.sivut {
+  background-color: gray;
+  padding: 20px;
+  text-align: center;
+
+  font-size: 20px;
+  font-style: normal;
+}
+
+a:hover {
+  background-color: lightgray;
+}
